@@ -16,6 +16,9 @@ https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/#recognize_sessi
 The interfaces support the following Input features:
 
 Languages: Supports Brazilian Portuguese, French, Japanese, Mandarin Chinese, Modern Standard Arabic, Spanish, UK English, and US English.
+
 Models: For most languages, supports both broadband (for audio that is sampled at a minimum rate of 16 KHz) and narrowband (for audio that is sampled at a minimum rate of 8 KHz) models.
+
 Audio formats: Transcribes Free Lossless Audio Codec (FLAC), Linear 16-bit Pulse-Code Modulation (PCM), Waveform Audio File Format (WAV), Ogg format with the opus codec, mu-law (or u-law) audio data, or basic audio.
+
 Audio transmission: Lets the client pass as much as 100 MB of audio to the service as a continuous stream of data chunks or as a one-shot delivery, passing all of the data at one time. With streaming, the service enforces various timeouts to preserve resources.

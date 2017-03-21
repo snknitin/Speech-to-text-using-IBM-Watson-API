@@ -1,0 +1,2214 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "was", 
+              2.4, 
+              2.51
+            ], 
+            [
+              "gonna", 
+              2.51, 
+              2.69
+            ], 
+            [
+              "go", 
+              2.69, 
+              2.83
+            ], 
+            [
+              "easy", 
+              2.83, 
+              3.09
+            ], 
+            [
+              "on", 
+              3.09, 
+              3.23
+            ], 
+            [
+              "you", 
+              3.23, 
+              3.49
+            ], 
+            [
+              "not", 
+              3.53, 
+              3.66
+            ], 
+            [
+              "to", 
+              3.66, 
+              3.73
+            ], 
+            [
+              "hurt", 
+              3.73, 
+              3.9
+            ], 
+            [
+              "your", 
+              3.9, 
+              4.0
+            ], 
+            [
+              "feelings", 
+              4.0, 
+              4.54
+            ], 
+            [
+              "but", 
+              4.83, 
+              4.95
+            ], 
+            [
+              "I", 
+              5.2, 
+              5.45
+            ], 
+            [
+              "am", 
+              5.45, 
+              5.6
+            ]
+          ], 
+          "confidence": 0.925, 
+          "transcript": "was gonna go easy on you not to hurt your feelings but I am "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "like", 
+              6.44, 
+              6.59
+            ], 
+            [
+              "this", 
+              7.13, 
+              7.48
+            ], 
+            [
+              "one", 
+              7.58, 
+              7.75
+            ], 
+            [
+              "something's", 
+              14.46, 
+              14.95
+            ], 
+            [
+              "about", 
+              14.95, 
+              15.18
+            ], 
+            [
+              "to", 
+              15.18, 
+              15.27
+            ], 
+            [
+              "happen", 
+              15.27, 
+              15.52
+            ]
+          ], 
+          "confidence": 0.766, 
+          "transcript": "like this one something's about to happen "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I", 
+              16.36, 
+              16.46
+            ], 
+            [
+              "don't", 
+              16.46, 
+              16.71
+            ]
+          ], 
+          "confidence": 0.856, 
+          "transcript": "I don't "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "if", 
+              17.78, 
+              17.96
+            ], 
+            [
+              "she", 
+              18.09, 
+              18.28
+            ]
+          ], 
+          "confidence": 0.48, 
+          "transcript": "if she "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "big", 
+              20.48, 
+              20.68
+            ], 
+            [
+              "problem", 
+              20.68, 
+              20.99
+            ], 
+            [
+              "and", 
+              21.13, 
+              21.27
+            ], 
+            [
+              "it", 
+              21.27, 
+              21.37
+            ]
+          ], 
+          "confidence": 0.555, 
+          "transcript": "big problem and it "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Bulma", 
+              29.21, 
+              29.56
+            ], 
+            [
+              "people", 
+              29.56, 
+              30.01
+            ]
+          ], 
+          "confidence": 0.454, 
+          "transcript": "Bulma people "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "set", 
+              49.92, 
+              50.1
+            ]
+          ], 
+          "confidence": 0.938, 
+          "transcript": "set "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "as", 
+              52.46, 
+              52.57
+            ], 
+            [
+              "all", 
+              52.57, 
+              52.74
+            ], 
+            [
+              "hell", 
+              52.74, 
+              52.91
+            ], 
+            [
+              "syllables", 
+              52.91, 
+              53.36
+            ], 
+            [
+              "kolumne", 
+              53.36, 
+              53.87
+            ], 
+            [
+              "to", 
+              53.94, 
+              54.08
+            ], 
+            [
+              "remove", 
+              54.08, 
+              54.47
+            ]
+          ], 
+          "confidence": 0.486, 
+          "transcript": "as all hell syllables kolumne to remove "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "really", 
+              56.22, 
+              56.39
+            ], 
+            [
+              "wanted", 
+              56.39, 
+              56.61
+            ], 
+            [
+              "to", 
+              56.61, 
+              56.76
+            ], 
+            [
+              "dance", 
+              57.21, 
+              57.45
+            ], 
+            [
+              "with", 
+              57.45, 
+              57.54
+            ], 
+            [
+              "the", 
+              57.54, 
+              57.61
+            ], 
+            [
+              "faculty", 
+              57.61, 
+              57.99
+            ], 
+            [
+              "backpack", 
+              57.99, 
+              58.47
+            ], 
+            [
+              "in", 
+              58.47, 
+              58.55
+            ], 
+            [
+              "the", 
+              58.55, 
+              58.62
+            ], 
+            [
+              "mac", 
+              58.62, 
+              58.88
+            ], 
+            [
+              "in", 
+              58.88, 
+              58.95
+            ], 
+            [
+              "the", 
+              58.95, 
+              59.03
+            ], 
+            [
+              "back", 
+              59.03, 
+              59.29
+            ]
+          ], 
+          "confidence": 0.509, 
+          "transcript": "really wanted to dance with the faculty backpack in the mac in the back "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yeah", 
+              60.67, 
+              60.82
+            ]
+          ], 
+          "confidence": 0.791, 
+          "transcript": "yeah "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it", 
+              68.61, 
+              68.69
+            ], 
+            [
+              "was", 
+              68.69, 
+              68.82
+            ], 
+            [
+              "out", 
+              68.82, 
+              69.02
+            ], 
+            [
+              "on", 
+              69.02, 
+              69.26
+            ], 
+            [
+              "a", 
+              69.26, 
+              69.31
+            ], 
+            [
+              "couple", 
+              69.31, 
+              69.58
+            ], 
+            [
+              "Sunday", 
+              69.58, 
+              69.96
+            ], 
+            [
+              "after", 
+              70.05, 
+              70.35
+            ], 
+            [
+              "mass", 
+              70.35, 
+              70.7
+            ], 
+            [
+              "at", 
+              70.7, 
+              70.83
+            ]
+          ], 
+          "confidence": 0.608, 
+          "transcript": "it was out on a couple Sunday after mass at "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "people", 
+              84.76, 
+              85.17
+            ]
+          ], 
+          "confidence": 0.353, 
+          "transcript": "people "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "absolutely", 
+              88.22, 
+              88.85
+            ]
+          ], 
+          "confidence": 0.038, 
+          "transcript": "absolutely "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you", 
+              91.05, 
+              91.16
+            ], 
+            [
+              "may", 
+              91.16, 
+              91.35
+            ], 
+            [
+              "take", 
+              91.35, 
+              91.62
+            ]
+          ], 
+          "confidence": 0.412, 
+          "transcript": "you may take "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "in", 
+              91.71, 
+              91.85
+            ], 
+            [
+              "this", 
+              91.85, 
+              92.14
+            ]
+          ], 
+          "confidence": 0.789, 
+          "transcript": "in this "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "do", 
+              94.54, 
+              94.63
+            ], 
+            [
+              "you", 
+              94.63, 
+              94.84
+            ], 
+            [
+              "see", 
+              94.84, 
+              95.11
+            ]
+          ], 
+          "confidence": 0.246, 
+          "transcript": "do you see "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and", 
+              98.85, 
+              98.99
+            ], 
+            [
+              "you", 
+              98.99, 
+              99.13
+            ]
+          ], 
+          "confidence": 0.415, 
+          "transcript": "and you "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but", 
+              101.8, 
+              101.94
+            ], 
+            [
+              "in", 
+              101.94, 
+              102.03
+            ], 
+            [
+              "estrogen", 
+              102.03, 
+              102.55
+            ]
+          ], 
+          "confidence": 0.295, 
+          "transcript": "but in estrogen "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "in", 
+              105.25, 
+              105.34
+            ], 
+            [
+              "the", 
+              105.34, 
+              105.4
+            ], 
+            [
+              "schools", 
+              105.4, 
+              105.76
+            ], 
+            [
+              "with", 
+              105.76, 
+              105.89
+            ], 
+            [
+              "music", 
+              105.89, 
+              106.24
+            ]
+          ], 
+          "confidence": 0.547, 
+          "transcript": "in the schools with music "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              107.01, 
+              107.07
+            ], 
+            [
+              "vehicle", 
+              107.07, 
+              107.41
+            ], 
+            [
+              "that", 
+              107.41, 
+              107.52
+            ]
+          ], 
+          "confidence": 0.691, 
+          "transcript": "the vehicle that "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "given", 
+              108.13, 
+              108.33
+            ], 
+            [
+              "the", 
+              108.33, 
+              108.42
+            ], 
+            [
+              "NDA", 
+              108.42, 
+              109.44
+            ]
+          ], 
+          "confidence": 0.194, 
+          "transcript": "given the NDA "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "me", 
+              109.86, 
+              110.07
+            ]
+          ], 
+          "confidence": 0.333, 
+          "transcript": "me "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Iraq", 
+              121.9, 
+              122.29
+            ]
+          ], 
+          "confidence": 0.068, 
+          "transcript": "Iraq "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well", 
+              122.72, 
+              122.91
+            ]
+          ], 
+          "confidence": 0.802, 
+          "transcript": "well "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "welcome", 
+              131.85, 
+              132.18
+            ]
+          ], 
+          "confidence": 0.069, 
+          "transcript": "welcome "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "thank", 
+              135.5, 
+              135.79
+            ], 
+            [
+              "you", 
+              135.79, 
+              135.91
+            ]
+          ], 
+          "confidence": 0.262, 
+          "transcript": "thank you "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "for", 
+              143.16, 
+              143.5
+            ], 
+            [
+              "great", 
+              143.55, 
+              143.82
+            ], 
+            [
+              "employees", 
+              143.82, 
+              144.32
+            ]
+          ], 
+          "confidence": 0.322, 
+          "transcript": "for great employees "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              147.28, 
+              147.38
+            ], 
+            [
+              "way", 
+              147.38, 
+              147.53
+            ], 
+            [
+              "to", 
+              147.53, 
+              147.59
+            ], 
+            [
+              "go", 
+              147.59, 
+              147.76
+            ]
+          ], 
+          "confidence": 0.176, 
+          "transcript": "the way to go "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yeah", 
+              151.27, 
+              151.45
+            ], 
+            [
+              "from", 
+              151.45, 
+              151.65
+            ]
+          ], 
+          "confidence": 0.534, 
+          "transcript": "yeah from "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "a", 
+              152.03, 
+              152.06
+            ], 
+            [
+              "boy", 
+              152.06, 
+              152.34
+            ]
+          ], 
+          "confidence": 0.214, 
+          "transcript": "a boy "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "what", 
+              158.59, 
+              158.78
+            ]
+          ], 
+          "confidence": 0.326, 
+          "transcript": "what "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it", 
+              168.55, 
+              168.75
+            ], 
+            [
+              "was", 
+              168.75, 
+              168.89
+            ], 
+            [
+              "one", 
+              168.98, 
+              169.14
+            ], 
+            [
+              "of", 
+              169.14, 
+              169.21
+            ], 
+            [
+              "the", 
+              169.21, 
+              169.27
+            ]
+          ], 
+          "confidence": 0.267, 
+          "transcript": "it was one of the "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you", 
+              171.13, 
+              171.26
+            ], 
+            [
+              "know", 
+              171.26, 
+              171.35
+            ], 
+            [
+              "before", 
+              171.35, 
+              171.73
+            ], 
+            [
+              "general", 
+              171.73, 
+              172.11
+            ]
+          ], 
+          "confidence": 0.176, 
+          "transcript": "you know before general "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "where", 
+              172.6, 
+              172.8
+            ]
+          ], 
+          "confidence": 0.543, 
+          "transcript": "where "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no", 
+              173.36, 
+              173.55
+            ]
+          ], 
+          "confidence": 0.463, 
+          "transcript": "no "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              175.57, 
+              175.69
+            ]
+          ], 
+          "confidence": 0.203, 
+          "transcript": "the "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so", 
+              177.0, 
+              177.23
+            ]
+          ], 
+          "confidence": 0.193, 
+          "transcript": "so "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "pope", 
+              178.01, 
+              178.27
+            ]
+          ], 
+          "confidence": 0.168, 
+          "transcript": "pope "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "that", 
+              178.74, 
+              178.89
+            ], 
+            [
+              "often", 
+              178.89, 
+              179.25
+            ]
+          ], 
+          "confidence": 0.393, 
+          "transcript": "that often "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "NASA", 
+              182.0, 
+              182.4
+            ]
+          ], 
+          "confidence": 0.114, 
+          "transcript": "NASA "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              183.6, 
+              183.66
+            ], 
+            [
+              "walking", 
+              183.66, 
+              184.06
+            ], 
+            [
+              "dead", 
+              184.06, 
+              184.37
+            ]
+          ], 
+          "confidence": 0.282, 
+          "transcript": "the walking dead "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well", 
+              187.84, 
+              188.07
+            ]
+          ], 
+          "confidence": 0.261, 
+          "transcript": "well "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's", 
+              189.91, 
+              190.07
+            ], 
+            [
+              "not", 
+              190.07, 
+              190.26
+            ]
+          ], 
+          "confidence": 0.54, 
+          "transcript": "it's not "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "come", 
+              190.57, 
+              190.95
+            ], 
+            [
+              "on", 
+              191.41, 
+              191.58
+            ], 
+            [
+              "don't", 
+              191.69, 
+              191.92
+            ]
+          ], 
+          "confidence": 0.34, 
+          "transcript": "come on don't "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but", 
+              197.33, 
+              197.43
+            ], 
+            [
+              "it", 
+              197.43, 
+              197.51
+            ], 
+            [
+              "sounds", 
+              197.51, 
+              197.95
+            ]
+          ], 
+          "confidence": 0.214, 
+          "transcript": "but it sounds "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you", 
+              198.25, 
+              198.33
+            ], 
+            [
+              "live", 
+              198.33, 
+              198.68
+            ]
+          ], 
+          "confidence": 0.424, 
+          "transcript": "you live "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              199.33, 
+              199.39
+            ], 
+            [
+              "last", 
+              199.39, 
+              199.77
+            ]
+          ], 
+          "confidence": 0.811, 
+          "transcript": "the last "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "opal", 
+              200.38, 
+              200.65
+            ], 
+            [
+              "could", 
+              200.65, 
+              200.89
+            ]
+          ], 
+          "confidence": 0.457, 
+          "transcript": "opal could "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "what", 
+              201.85, 
+              201.97
+            ], 
+            [
+              "what", 
+              201.97, 
+              202.16
+            ], 
+            [
+              "makes", 
+              202.16, 
+              202.37
+            ], 
+            [
+              "just", 
+              202.37, 
+              202.61
+            ], 
+            [
+              "awareness", 
+              202.61, 
+              202.99
+            ]
+          ], 
+          "confidence": 0.5, 
+          "transcript": "what what makes just awareness "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "women", 
+              203.73, 
+              203.96
+            ], 
+            [
+              "don't", 
+              203.96, 
+              204.26
+            ], 
+            [
+              "even", 
+              204.26, 
+              204.43
+            ], 
+            [
+              "know", 
+              204.43, 
+              204.55
+            ]
+          ], 
+          "confidence": 0.524, 
+          "transcript": "women don't even know "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "if", 
+              208.13, 
+              208.25
+            ], 
+            [
+              "you", 
+              208.25, 
+              208.35
+            ], 
+            [
+              "play", 
+              208.35, 
+              208.57
+            ]
+          ], 
+          "confidence": 0.34, 
+          "transcript": "if you play "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "even", 
+              209.77, 
+              210.01
+            ]
+          ], 
+          "confidence": 0.786, 
+          "transcript": "even "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              210.94, 
+              211.03
+            ], 
+            [
+              "hungry", 
+              211.03, 
+              211.45
+            ]
+          ], 
+          "confidence": 0.056, 
+          "transcript": "the hungry "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "there", 
+              213.31, 
+              213.49
+            ], 
+            [
+              "was", 
+              213.49, 
+              213.62
+            ], 
+            [
+              "a", 
+              213.62, 
+              213.68
+            ], 
+            [
+              "time", 
+              213.68, 
+              213.96
+            ], 
+            [
+              "where", 
+              213.96, 
+              214.11
+            ], 
+            [
+              "one", 
+              214.11, 
+              214.37
+            ]
+          ], 
+          "confidence": 0.289, 
+          "transcript": "there was a time where one "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "when", 
+              219.49, 
+              219.62
+            ], 
+            [
+              "you", 
+              219.62, 
+              219.75
+            ]
+          ], 
+          "confidence": 0.631, 
+          "transcript": "when you "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "we", 
+              234.41, 
+              234.56
+            ], 
+            [
+              "would", 
+              234.56, 
+              234.79
+            ]
+          ], 
+          "confidence": 0.323, 
+          "transcript": "we would "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "more", 
+              238.26, 
+              238.48
+            ], 
+            [
+              "to", 
+              238.48, 
+              238.57
+            ], 
+            [
+              "come", 
+              238.57, 
+              238.8
+            ]
+          ], 
+          "confidence": 0.265, 
+          "transcript": "more to come "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I'm", 
+              240.37, 
+              240.46
+            ], 
+            [
+              "war", 
+              240.46, 
+              240.74
+            ]
+          ], 
+          "confidence": 0.518, 
+          "transcript": "I'm war "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Florida", 
+              241.47, 
+              241.83
+            ]
+          ], 
+          "confidence": 0.134, 
+          "transcript": "Florida "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and", 
+              248.56, 
+              248.69
+            ], 
+            [
+              "I", 
+              248.69, 
+              248.73
+            ], 
+            [
+              "just", 
+              248.73, 
+              248.95
+            ], 
+            [
+              "got", 
+              248.95, 
+              249.12
+            ], 
+            [
+              "a", 
+              249.12, 
+              249.16
+            ], 
+            [
+              "new", 
+              249.16, 
+              249.35
+            ], 
+            [
+              "one", 
+              249.59, 
+              249.77
+            ]
+          ], 
+          "confidence": 0.491, 
+          "transcript": "and I just got a new one "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "makes", 
+              252.22, 
+              252.49
+            ], 
+            [
+              "a", 
+              252.49, 
+              252.59
+            ], 
+            [
+              "man's", 
+              252.59, 
+              253.04
+            ]
+          ], 
+          "confidence": 0.262, 
+          "transcript": "makes a man's "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "an", 
+              256.63, 
+              256.73
+            ], 
+            [
+              "old", 
+              256.73, 
+              256.86
+            ], 
+            [
+              "man", 
+              256.86, 
+              257.11
+            ]
+          ], 
+          "confidence": 0.261, 
+          "transcript": "an old man "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sonics", 
+              264.54, 
+              264.96
+            ]
+          ], 
+          "confidence": 0.415, 
+          "transcript": "sonics "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but", 
+              277.05, 
+              277.17
+            ], 
+            [
+              "we", 
+              277.17, 
+              277.31
+            ]
+          ], 
+          "confidence": 0.414, 
+          "transcript": "but we "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "what", 
+              294.2, 
+              294.37
+            ]
+          ], 
+          "confidence": 0.765, 
+          "transcript": "what "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you", 
+              295.33, 
+              295.39
+            ], 
+            [
+              "know", 
+              295.39, 
+              295.55
+            ], 
+            [
+              "when", 
+              295.55, 
+              295.81
+            ]
+          ], 
+          "confidence": 0.626, 
+          "transcript": "you know when "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "one", 
+              296.38, 
+              296.54
+            ], 
+            [
+              "of", 
+              296.54, 
+              296.62
+            ], 
+            [
+              "the", 
+              296.62, 
+              296.71
+            ]
+          ], 
+          "confidence": 0.617, 
+          "transcript": "one of the "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "first", 
+              297.32, 
+              297.56
+            ], 
+            [
+              "the", 
+              297.56, 
+              297.66
+            ]
+          ], 
+          "confidence": 0.737, 
+          "transcript": "first the "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              300.15, 
+              300.23
+            ], 
+            [
+              "first", 
+              300.23, 
+              300.54
+            ]
+          ], 
+          "confidence": 0.319, 
+          "transcript": "the first "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "America", 
+              300.8, 
+              301.21
+            ], 
+            [
+              "to", 
+              301.21, 
+              301.42
+            ]
+          ], 
+          "confidence": 0.411, 
+          "transcript": "America to "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "cool", 
+              305.33, 
+              305.62
+            ], 
+            [
+              "flow", 
+              305.62, 
+              306.01
+            ]
+          ], 
+          "confidence": 0.44, 
+          "transcript": "cool flow "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Seattle", 
+              310.58, 
+              310.96
+            ], 
+            [
+              "home", 
+              310.96, 
+              311.25
+            ]
+          ], 
+          "confidence": 0.228, 
+          "transcript": "Seattle home "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Neil", 
+              314.98, 
+              315.39
+            ], 
+            [
+              "Young", 
+              315.39, 
+              315.68
+            ]
+          ], 
+          "confidence": 0.719, 
+          "transcript": "Neil Young "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no", 
+              316.87, 
+              316.98
+            ], 
+            [
+              "one", 
+              316.98, 
+              317.14
+            ], 
+            [
+              "else", 
+              317.14, 
+              317.33
+            ]
+          ], 
+          "confidence": 0.329, 
+          "transcript": "no one else "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "we", 
+              321.55, 
+              321.71
+            ], 
+            [
+              "have", 
+              321.71, 
+              321.9
+            ], 
+            [
+              "a", 
+              321.9, 
+              321.95
+            ], 
+            [
+              "lot", 
+              321.95, 
+              322.11
+            ]
+          ], 
+          "confidence": 0.589, 
+          "transcript": "we have a lot "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "voice", 
+              324.16, 
+              324.44
+            ]
+          ], 
+          "confidence": 0.21, 
+          "transcript": "voice "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so", 
+              325.13, 
+              325.33
+            ]
+          ], 
+          "confidence": 0.605, 
+          "transcript": "so "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I", 
+              326.73, 
+              326.8
+            ], 
+            [
+              "had", 
+              326.8, 
+              327.02
+            ], 
+            [
+              "this", 
+              327.02, 
+              327.21
+            ]
+          ], 
+          "confidence": 0.407, 
+          "transcript": "I had this "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "real", 
+              328.05, 
+              328.32
+            ], 
+            [
+              "time", 
+              328.32, 
+              328.54
+            ]
+          ], 
+          "confidence": 0.213, 
+          "transcript": "real time "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "from", 
+              332.24, 
+              332.61
+            ]
+          ], 
+          "confidence": 0.985, 
+          "transcript": "from "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it", 
+              333.72, 
+              333.85
+            ], 
+            [
+              "with", 
+              333.85, 
+              333.96
+            ], 
+            [
+              "them", 
+              333.96, 
+              334.11
+            ]
+          ], 
+          "confidence": 0.24, 
+          "transcript": "it with them "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              338.27, 
+              338.34
+            ], 
+            [
+              "most", 
+              338.34, 
+              338.62
+            ], 
+            [
+              "of", 
+              338.62, 
+              338.69
+            ], 
+            [
+              "it", 
+              338.69, 
+              338.76
+            ]
+          ], 
+          "confidence": 0.781, 
+          "transcript": "the most of it "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I", 
+              342.96, 
+              342.99
+            ], 
+            [
+              "came", 
+              342.99, 
+              343.27
+            ], 
+            [
+              "in", 
+              343.27, 
+              343.37
+            ]
+          ], 
+          "confidence": 0.42, 
+          "transcript": "I came in "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "when", 
+              345.86, 
+              346.11
+            ]
+          ], 
+          "confidence": 0.398, 
+          "transcript": "when "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "famous", 
+              349.72, 
+              350.12
+            ]
+          ], 
+          "confidence": 0.049, 
+          "transcript": "famous "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "all", 
+              351.12, 
+              351.26
+            ], 
+            [
+              "of", 
+              351.26, 
+              351.33
+            ], 
+            [
+              "this", 
+              351.33, 
+              351.53
+            ]
+          ], 
+          "confidence": 0.27, 
+          "transcript": "all of this "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "brought", 
+              353.3, 
+              353.63
+            ], 
+            [
+              "them", 
+              353.74, 
+              353.88
+            ], 
+            [
+              "make", 
+              353.88, 
+              354.2
+            ], 
+            [
+              "up", 
+              354.2, 
+              354.32
+            ]
+          ], 
+          "confidence": 0.466, 
+          "transcript": "brought them make up "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the", 
+              355.62, 
+              355.76
+            ], 
+            [
+              "reeds", 
+              355.76, 
+              356.02
+            ]
+          ], 
+          "confidence": 0.196, 
+          "transcript": "the reeds "
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "king", 
+              356.6, 
+              356.89
+            ]
+          ], 
+          "confidence": 0.275, 
+          "transcript": "king "
+        }
+      ], 
+      "final": true
+    }
+  ], 
+  "result_index": 0
+}

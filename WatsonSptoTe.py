@@ -17,12 +17,22 @@ PWD = "OM1zJUbkq3iw"
 sptote = SpeechToTextV1(username=UNAME, password=PWD)
 
 # Filename of the selected audio file
-audio_file = open("rapgod.ogg", "rb")
+audio_song = open("rapgod.ogg", "rb")
+
+audio_speech = open("Charlie Chaplin - Final Speech from The Great Dictator.ogg", "rb")
 print "Processing Audio (Speech)"
 
 # Transcribing
-with open('text_result_.json', 'w') as fp:
-    result = sptote.recognize(audio_file, content_type="audio/ogg",
+with open('song_result_.json', 'w') as fp:
+    result = sptote.recognize(audio_song, content_type="audio/ogg",
+                           continuous=True, timestamps=False,
+                           max_alternatives=1)
+    print result
+    json.dump(result, fp, indent=2)
+    
+# Transcribing
+with open('speech_result.json', 'w') as fp:
+    result = sptote.recognize(audio_speech, content_type="audio/ogg",
                            continuous=True, timestamps=False,
                            max_alternatives=1)
     print result

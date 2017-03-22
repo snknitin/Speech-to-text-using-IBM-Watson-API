@@ -27,6 +27,6 @@ The interfaces support the following Input features:
 
 # Results
 
-> Song similarity  0.345236810875     - Eminem - Rap God (Explicit)
+> Song similarity  0.329525483304     - Eminem - Rap God (Explicit)
 
 > Speech similarity  0.975907288808   - Charlie Chaplin - Final Speech from The Great Dictator
